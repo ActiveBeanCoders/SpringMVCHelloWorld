@@ -13,6 +13,9 @@
             <li><a href="hello?name=Bar">Hello World with URL param</li>
             <li><a href="html5">HTML5 Test</li>
             <li><a href="html5?name=Baz">HTML5 Test with URL param</li>
+            <li><a href="js">Js Test</li>
+            <li><a href="danjs">Js Test 2</li>
+            <li><a href="extjs">ExtJs Test</li>
         </ul>
     </body>
 </html>
